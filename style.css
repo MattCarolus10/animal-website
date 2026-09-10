@@ -1,13 +1,14 @@
-body{
-    background-color: #e8de7300;
+body {
+    background-color: #4cc9ef;
     font-family: 'Georgian', serif;
 }
 
-h1, h3 {
+h1,
+h3 {
     text-align: center;
 }
 
-img{
+img {
     border: 5px solid #6b4226;
     border-radius: 8px;
     display: block;
