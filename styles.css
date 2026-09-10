@@ -4,3 +4,13 @@ body{ background-color: #f7f7f7;
     padding: 20px;
     line-height: 1.6;
 }
+h1 { text-align: center; color: #801c1c; 
+margin-bottom: 10px; }
+
+h3 { text-align: center; 
+    color: #5ca488;
+    margin-bottom: 20px;
+    font-weight: normal;
+}
+
+
