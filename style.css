@@ -1,0 +1,13 @@
+body{
+    background-color: #e8de7300;
+    font-family: 'Georgian', serif;
+}
+h1{
+    text-align: center;
+}
+img{
+    border: 5px solid #6b4226;
+    border-radius: 8px;
+    display: block;
+    margin: 0 auto;
+}
